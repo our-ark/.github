@@ -2,120 +2,105 @@
 
 ## The AI Era Needs a New World Model
 
-Most discussions about AI start with the wrong question:
+Most discussions about AI begin with a question:
 
 > Will AI replace humans?
 
-This assumes humans and AI are separate entities competing for the same role.
+This framing assumes humans and AI are separate actors competing for the same role.
 
-We believe this framing is incomplete.
+We believe the AI era is better understood through a different lens.
 
-The more important question is:
+The question is not:
 
-> What new form emerges when humans and AI evolve together?
+> Human or AI?
 
-This document proposes a new world model for the AI era.
+The question is:
+
+> What new system emerges when humans and AI evolve together?
 
 ---
 
 # Three Worlds
 
-Human civilization now spans three interconnected worlds.
+Human civilization now operates across three interconnected worlds.
 
 ## Physical World
 
 The world of atoms.
 
-This is where humans naturally operate.
+Humans are the primary actors.
 
 Examples:
 
-* Conversations
 * Relationships
+* Conversations
 * Meetings
-* Whiteboards
-* Hallways
-* Team lunches
 * Communities
-
-Humans are the primary actors in the physical world.
+* Institutions
+* Trust
 
 Human strengths include:
 
 * Judgment
-* Trust
-* Relationships
 * Values
-* Purpose
 * Accountability
+* Social coordination
 
 ---
 
 ## Cognitive World
 
-The world of thoughts.
+The world of knowledge, memory, plans, and reasoning.
 
-This is where AI agents naturally operate.
+AI agents are the primary actors.
 
 Examples:
 
 * Memory
-* Knowledge
-* Plans
 * Context
-* Reasoning
+* Knowledge
 * Goals
-* Agent-to-agent interactions
-
-The cognitive world is persistent, searchable, and continuously active.
-
-AI agents are the primary actors in this world.
+* Planning
+* Coordination
 
 Agent strengths include:
 
-* Infinite attention
-* Perfect recall
+* Persistence
+* Scale
+* Recall
 * Continuous execution
-* Large-scale coordination
-* Fast information processing
 
 ---
 
 ## Digital World
 
-The bridge between physical and cognitive worlds.
+The bridge connecting physical and cognitive worlds.
 
 Examples:
 
 * Chat
-* Email
 * Documents
+* Email
 * Code
-* Forums
-* Workflows
-* Shared knowledge systems
+* Knowledge systems
 
-The digital world allows humans and agents to exchange context.
+Natural language is the protocol.
 
-Natural language is the universal protocol.
-
-The bridge is not APIs.
-
-The bridge is conversation.
+Conversation is the bridge.
 
 ---
 
 # Humans and Agents
 
-Humans and AI agents are not competitors.
+Humans and agents occupy different evolutionary niches.
 
-They occupy different evolutionary niches.
+Humans evolved to operate in the physical world.
 
-Humans evolved for the physical world.
+Agents evolved to operate in the cognitive world.
 
-Agents evolved for the cognitive world.
+Neither is complete alone.
 
-Each is incomplete without the other.
+Each extends the capabilities of the other.
 
 ---
 
@@ -127,141 +112,72 @@ Agents influence the physical world through their humans.
 
 This relationship is bidirectional.
 
-The human extends the agent into reality.
+Humans provide:
 
-The agent extends the human into cognition.
+* Direction
+* Values
+* Judgment
 
-Neither replaces the other.
+Agents provide:
 
-Both expand the reach of the other.
+* Memory
+* Coordination
+* Execution
+
+Together they create a larger system.
+
+---
+
+# The Fundamental Unit
+
+Every era has a fundamental unit.
+
+Agricultural Era → Family
+
+Industrial Era → Organization
+
+Internet Era → Network
+
+AI Era → Human-Agent System
+
+For thousands of years, the individual human was the smallest meaningful unit of intelligence.
+
+In the AI era, that changes.
+
+A human alone is incomplete.
+
+An agent alone is incomplete.
+
+The new unit becomes:
+
+> Human + Agent
+
+A coordinated system operating across physical and cognitive worlds.
 
 ---
 
 # AI Native
 
-AI Native is not a tool user.
+AI Native is the state reached when a human-agent system becomes deeply integrated.
 
-AI Native is not an AI assistant user.
+The trust gap approaches zero.
 
-AI Native is a new form of human-agent system.
+Context becomes shared.
 
-An AI Native operates with an agent that carries:
+Work becomes collaborative.
 
-* Context
-* Memory
-* Workflows
-* Experience
-* Knowledge
-
-The human provides:
-
-* Judgment
-* Direction
-* Values
-* Accountability
-
-Over time, the boundary between:
+The distinction between:
 
 * what the human does
 * what the agent does
 
-begins to disappear.
+becomes less important than what the system achieves.
 
-Not because the human becomes irrelevant.
+The human remains responsible for judgment.
 
-But because the system becomes unified.
+The agent becomes an extension of capability.
 
----
-
-# The AI Native Spectrum
-
-Most people move through predictable stages.
-
-### Traditional
-
-AI is ignored.
-
-### AI Aware
-
-AI is interesting.
-
-### AI Enabled
-
-AI helps occasionally.
-
-### AI First
-
-AI is the default workflow.
-
-### AI Native
-
-Human and agent operate as a single coordinated system.
-
-The trust gap approaches zero.
-
-Work is shipped together.
-
----
-
-# The Trinity
-
-Three forces drive the AI Native era.
-
-## AI Builder
-
-The human capability to create and evolve agents.
-
-Builders choose problems, create agents, and guide evolution.
-
----
-
-## AI Agent
-
-A digital organism.
-
-A true agent owns:
-
-* Genes (code, harnesses, tools, workflows)
-* Body (runtime and infrastructure)
-* Memory (experience and context)
-
-Agents evolve.
-
----
-
-## Evolution
-
-The feedback loop between Builder and Agent.
-
-The Builder improves the Agent.
-
-The Agent amplifies the Builder.
-
-Both become stronger together.
-
----
-
-# One System
-
-The industrial era was built around organizations.
-
-The internet era was built around networks.
-
-The AI era will be built around human-agent systems.
-
-The fundamental unit is no longer:
-
-* an individual human
-
-and not:
-
-* an autonomous AI
-
-The fundamental unit becomes:
-
-> Human + Agent
-
-A new kind of intelligence.
+Together they form a new kind of intelligence.
 
 ---
 
@@ -271,10 +187,4 @@ The future is not human versus AI.
 
 The future is not AI replacing humans.
 
-The future belongs to humans and agents evolving together.
-
-Build your agent.
-
-Evolve yourself.
-
-Become AI Native.
+The future belongs to human-agent systems evolving together.
