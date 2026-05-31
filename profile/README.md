@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/our-ark/.github/main/profile/ai_native.png"
+    width="220"
+    alt="Our Ark"
+  />
+</p>
+
+
 # Our Ark
 
 > Build your agent. Evolve yourself. Become AI Native.
