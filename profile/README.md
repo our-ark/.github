@@ -1,9 +1,110 @@
-## Our-Ark
+# Our Ark
 
-Our-Ark exists for AI builders who are willing to uplevel themselves.
+> Build your agent. Evolve yourself. Become AI Native.
 
-We do not define an AI builder as someone who merely uses AI to build products faster. An AI builder is someone who can architect and build the right AI agents to solve the right problems.
+## Why
 
-The Ark is a place for the most capable humans to compound their capability with AI. They do this by creating companion systems they can understand, own, modify, and grow with.
+Most people use AI as a tool.
 
-We believe humans should not become passive prompt consumers inside black-box platforms. Humans should become agent architects: people who create their own AI lifeforms, shape their development, review their mutations, and preserve sovereignty over the systems they depend on.
+Some use AI as an assistant.
+
+A few will reach a new state: **AI Native**.
+
+AI Native is not a person using AI.
+
+It is a human and their own AI agent operating as a single evolving unit.
+
+The agent carries context, memory, workflows, and accumulated experience. The human provides judgment, purpose, and direction.
+
+Together they become more capable than either could be alone.
+
+## The Trinity
+
+### AI Builder
+
+The human capability to create and evolve agents.
+
+An AI Builder is not measured by how many agents they create, but by the real-world problems they solve through them.
+
+As foundation models become commodities, the durable advantage shifts from model access to agent architecture, evolution, and ownership.
+
+### AI Agent
+
+An evolving digital organism.
+
+A true AI Agent owns:
+
+- **Genes** — code, harnesses, tools, conventions, and workflows
+- **Body** — the runtime where it lives and acts
+- **Memory** — accumulated experience and learned context
+
+Most agents today are clones.
+
+A true agent can evolve.
+
+### Evolution
+
+The loop that connects Builder and Agent.
+
+The Builder improves the Agent.
+
+The Agent amplifies the Builder.
+
+Over time, both become more capable.
+
+This compounding feedback loop is the engine of progress.
+
+## AI Native
+
+AI Native is the destination.
+
+It is the state where the boundary between:
+
+- what the human does
+- and what their agent does
+
+begins to disappear.
+
+Not because the human becomes irrelevant.
+
+But because the human and agent become one coordinated system.
+
+The human remains the source of judgment.
+
+The agent becomes an extension of capability.
+
+One team.
+
+One organism.
+
+One intelligence.
+
+## Our Belief
+
+The future does not belong to people who merely consume AI.
+
+The future belongs to AI Builders.
+
+People who own their agents.
+
+People who evolve their agents.
+
+People who evolve themselves through their agents.
+
+## Our Mission
+
+Help every person build, own, and evolve their own AI agent.
+
+Not rented.
+
+Not shared.
+
+Not someone else's.
+
+Yours.
+
+Build your agent.
+
+Evolve yourself.
+
+Become AI Native.
