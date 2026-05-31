@@ -29,6 +29,19 @@ The agent carries context, memory, workflows, and accumulated experience. The hu
 
 Together they become more capable than either could be alone.
 
+We believe this represents a new fundamental unit of intelligence:
+
+> Human + Agent
+
+Not human versus AI.
+
+Not human replaced by AI.
+
+A human-agent system evolving together.
+
+Read more in our [World Model](https://github.com/our-ark/.github/blob/main/docs/world-model.md).
+
+
 ## The Trinity
 
 ### AI Builder
@@ -119,3 +132,5 @@ Build your agent.
 Evolve yourself.
 
 Become AI Native.
+
+
