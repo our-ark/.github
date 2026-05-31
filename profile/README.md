@@ -7,9 +7,11 @@
 </p>
 
 
-# Our Ark
+<h1 align="center">Our Ark</h1>
 
-> Build your agent. Evolve yourself. Become AI Native.
+<p align="center">
+  <strong>Build your agent. Evolve yourself. Become AI Native.</strong>
+</p>
 
 ## Why
 
