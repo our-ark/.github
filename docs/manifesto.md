@@ -1,0 +1,98 @@
+# Our Ark Manifesto
+
+## We Believe
+
+We believe the AI era requires a new relationship between humans and intelligence.
+
+Not ownership by corporations.
+
+Not dependence on black boxes.
+
+Not replacement.
+
+Co-evolution.
+
+---
+
+We believe every person should be able to own their own AI agent.
+
+Not rented.
+
+Not shared.
+
+Not someone else's.
+
+Yours.
+
+---
+
+We believe intelligence should compound.
+
+The most powerful systems are not humans alone.
+
+The most powerful systems are not AI alone.
+
+The future belongs to human-agent systems evolving together.
+
+---
+
+We believe AI agents are more than tools.
+
+A true agent carries:
+
+* Memory
+* Context
+* Experience
+* Workflows
+
+A true agent grows with its owner.
+
+---
+
+We believe AI Builders will shape the future.
+
+As models become commodities, the enduring advantage shifts to those who can build, evolve, and direct agents toward meaningful problems.
+
+---
+
+We believe the AI era introduces a new fundamental unit:
+
+> Human + Agent
+
+Not human versus AI.
+
+Not human replaced by AI.
+
+A human-agent system operating across physical and cognitive worlds.
+
+---
+
+We believe AI Native is the next stage.
+
+Not because humans become less important.
+
+But because humans become more capable through co-evolution with their agents.
+
+The human remains the source of judgment.
+
+The agent becomes an extension of capability.
+
+Together they become something neither could be alone.
+
+---
+
+We do not know what intelligence will ultimately become.
+
+We do not know what civilization will ultimately become.
+
+But if co-evolution is possible,
+
+we choose to build toward it.
+
+---
+
+Build your agent.
+
+Evolve yourself.
+
+Become AI Native.
