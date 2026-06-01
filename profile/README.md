@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/our-ark/.github/main/profile/ai_native_banner.png"
-    width="220"
+    width="100%"
     alt="Our Ark"
   />
 </p>
