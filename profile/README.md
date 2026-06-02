@@ -13,6 +13,22 @@
   <strong>Build your agent. Evolve yourself. Become AI Native.</strong>
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/our-ark/.github/main/profile/ai_native_banner.png"
+    width="600"
+    alt="Our Ark"
+  />
+</p>
+
+<h1 align="center">Our Ark</h1>
+
+<p align="center">
+  <strong>Build your agent. Evolve yourself. Become AI Native.</strong>
+</p>
+
+---
+
 ## Why
 
 Most people use AI as a tool.
@@ -25,9 +41,11 @@ AI Native is not a person using AI.
 
 It is a human and their own AI agent operating as a single evolving unit.
 
-The agent carries context, memory, workflows, and accumulated experience. The human provides judgment, purpose, and direction.
+The agent carries context, memory, workflows, and accumulated experience.
 
-Together they become more capable than either could be alone.
+The human provides judgment, purpose, and direction.
+
+Together, they become more capable than either could be alone.
 
 We believe this represents a new fundamental unit of intelligence:
 
@@ -41,26 +59,27 @@ A human-agent system evolving together.
 
 Read more in our [World Model](https://github.com/our-ark/.github/blob/main/docs/world-model.md).
 
+---
 
 ## The Trinity
 
 ### AI Builder
 
-The human capability to create and evolve agents.
+The human capability to create, own, and evolve agents.
 
 An AI Builder is not measured by how many agents they create, but by the real-world problems they solve through them.
 
-As foundation models become commodities, the durable advantage shifts from model access to agent architecture, evolution, and ownership.
+As foundation models become commodities, the durable advantage shifts from model access to agent ownership, architecture, and evolution.
 
 ### AI Agent
 
 An evolving digital organism.
 
-A true AI Agent owns:
+A true AI Agent has:
 
-- **Genes** — code, harnesses, tools, conventions, and workflows
-- **Body** — the runtime where it lives and acts
-- **Memory** — accumulated experience and learned context
+* **Genes** — code, harnesses, tools, conventions, and workflows
+* **Body** — the runtime where it lives and acts
+* **Memory** — accumulated experience and learned context
 
 Most agents today are clones.
 
@@ -78,14 +97,16 @@ Over time, both become more capable.
 
 This compounding feedback loop is the engine of progress.
 
+---
+
 ## AI Native
 
 AI Native is the destination.
 
 It is the state where the boundary between:
 
-- what the human does
-- and what their agent does
+* what the human does
+* what their agent does
 
 begins to disappear.
 
@@ -103,6 +124,8 @@ One organism.
 
 One intelligence.
 
+---
+
 ## Our Belief
 
 The future does not belong to people who merely consume AI.
@@ -115,9 +138,11 @@ People who evolve their agents.
 
 People who evolve themselves through their agents.
 
+---
+
 ## Our Mission
 
-Help every person build, own, and evolve their own AI agent.
+Help people build, own, and evolve their own AI agents.
 
 Not rented.
 
