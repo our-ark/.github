@@ -13,20 +13,6 @@
   <strong>Build your agent. Evolve yourself. Become AI Native.</strong>
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/our-ark/.github/main/profile/ai_native_banner.png"
-    width="600"
-    alt="Our Ark"
-  />
-</p>
-
-<h1 align="center">Our Ark</h1>
-
-<p align="center">
-  <strong>Build your agent. Evolve yourself. Become AI Native.</strong>
-</p>
-
 ---
 
 ## Why
