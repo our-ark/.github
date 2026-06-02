@@ -4,11 +4,11 @@
 
 We believe the AI era requires a new relationship between humans and intelligence.
 
-Not ownership by corporations.
-
-Not dependence on black boxes.
-
 Not replacement.
+
+Not dependency.
+
+Not intelligence fully controlled by systems that do not belong to you.
 
 Co-evolution.
 
@@ -23,6 +23,16 @@ Not shared.
 Not someone else's.
 
 Yours.
+
+Not necessarily your own foundation model.
+
+But your own agent:
+
+* Your memory
+* Your context
+* Your workflows
+* Your tools
+* Your evolution history
 
 ---
 
@@ -47,11 +57,15 @@ A true agent carries:
 
 A true agent grows with its owner.
 
+A true agent evolves.
+
 ---
 
 We believe AI Builders will shape the future.
 
-As models become commodities, the enduring advantage shifts to those who can build, evolve, and direct agents toward meaningful problems.
+As foundation models become commodities, the enduring advantage shifts from model access to agent ownership, architecture, evolution, and direction.
+
+The future belongs to people who can build agents, grow agents, and direct them toward meaningful problems.
 
 ---
 
