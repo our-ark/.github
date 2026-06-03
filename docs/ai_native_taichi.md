@@ -1,5 +1,13 @@
 # AI Native and Tai Chi
 
+<p align="center">
+  <img
+    src="./tai_chi.png"
+    width="420"
+    alt="AI Native and Tai Chi"
+  />
+</p>
+
 ## An Unexpected Parallel
 
 When we first developed the AI Native model, we were not thinking about Tai Chi.
