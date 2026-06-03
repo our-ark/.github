@@ -11,6 +11,8 @@
 
 <p align="center">
   <strong>Build your agent. Evolve yourself. Become AI Native.</strong>
+  <br />
+  <em>以你中有我为合，以我中有你为生</em>
 </p>
 
 ---
