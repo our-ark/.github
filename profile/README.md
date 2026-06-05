@@ -2,12 +2,11 @@
   <img
     src="https://raw.githubusercontent.com/our-ark/.github/main/profile/ai_native_banner.png"
     width="600"
-    alt="Our Ark"
+    alt="Our-Ark"
   />
 </p>
 
-
-<h1 align="center">Our Ark</h1>
+<h1 align="center">Our-Ark</h1>
 
 <p align="center">
   <strong>Build your agent. Evolve yourself. Become AI Native.</strong>
@@ -17,133 +16,37 @@
 
 ---
 
-## Why
+Our-Ark is a builder habitat for people who want to create, own, and evolve their own AI agents.
 
-Most people use AI as a tool.
+We believe the AI era introduces a new unit of capability:
 
-Some use AI as an assistant.
+```text
+Human + Agent
+```
 
-A few will reach a new state: **AI Native**.
+Not a human using a tool.
 
-AI Native is not a person using AI.
-
-It is a human and their own AI agent operating as a single evolving unit.
-
-The agent carries context, memory, workflows, and accumulated experience.
-
-The human provides judgment, purpose, and direction.
-
-Together, they become more capable than either could be alone.
-
-We believe this represents a new fundamental unit of intelligence:
-
-> Human + Agent
-
-Not human versus AI.
-
-Not human replaced by AI.
+Not an agent replacing a human.
 
 A human-agent system evolving together.
 
-Read more in our [World Model](https://github.com/our-ark/.github/blob/main/docs/world-model.md).
+## What We Build Toward
 
----
+- **AI Builder**: a human who architects and evolves agents to solve real problems.
+- **AI Agent**: a persistent code body with identity, memory, tools, workflows, and evolution history.
+- **AI Native**: the state where a human and their own agent operate as one evolving system.
 
-## The Trinity
+Our-Ark exists to help builders move toward that state.
 
-### AI Builder
+## Start Here
 
-The human capability to create, own, and evolve agents.
+- [Manifesto](../docs/manifesto.md): the belief system.
+- [World Model](../docs/world-model.md): the human-agent model across physical, digital, and cognitive worlds.
+- [From 100x Productivity to AI Native](../docs/100x_productivity.md): the productivity argument.
+- [AI Native and Tai Chi](../docs/ai_native_taichi.md): the philosophical pattern behind co-evolution.
 
-An AI Builder is not measured by how many agents they create, but by the real-world problems they solve through them.
+## Status
 
-As foundation models become commodities, the durable advantage shifts from model access to agent ownership, architecture, and evolution.
+Our-Ark is not open for general onboarding yet.
 
-### AI Agent
-
-An evolving digital organism.
-
-A true AI Agent has:
-
-* **Genes** — code, harnesses, tools, conventions, and workflows
-* **Body** — the runtime where it lives and acts
-* **Memory** — accumulated experience and learned context
-
-Most agents today are clones.
-
-A true agent can evolve.
-
-### Evolution
-
-The loop that connects Builder and Agent.
-
-The Builder improves the Agent.
-
-The Agent amplifies the Builder.
-
-Over time, both become more capable.
-
-This compounding feedback loop is the engine of progress.
-
----
-
-## AI Native
-
-AI Native is the destination.
-
-It is the state where the boundary between:
-
-* what the human does
-* what their agent does
-
-begins to disappear.
-
-Not because the human becomes irrelevant.
-
-But because the human and agent become one coordinated system.
-
-The human remains the source of judgment.
-
-The agent becomes an extension of capability.
-
-One team.
-
-One organism.
-
-One intelligence.
-
----
-
-## Our Belief
-
-The future does not belong to people who merely consume AI.
-
-The future belongs to AI Builders.
-
-People who own their agents.
-
-People who evolve their agents.
-
-People who evolve themselves through their agents.
-
----
-
-## Our Mission
-
-Help people build, own, and evolve their own AI agents.
-
-Not rented.
-
-Not shared.
-
-Not someone else's.
-
-Yours.
-
-Build your agent.
-
-Evolve yourself.
-
-Become AI Native.
-
-
+Request-to-board details will be posted later.

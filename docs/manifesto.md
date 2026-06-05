@@ -1,109 +1,79 @@
-# Our Ark Manifesto
+# Our-Ark Manifesto
 
-## We Believe
+This document is the belief system of Our-Ark.
 
-We believe the AI era requires a new relationship between humans and intelligence.
+Other docs explain the world model, productivity argument, and philosophical parallels. This manifesto stays focused on what we believe.
 
-Not replacement.
+## We Believe In Co-Evolution
 
-Not dependency.
+The AI era should not be framed only as replacement, dependency, or automation.
 
-Not intelligence fully controlled by systems that do not belong to you.
+The more important possibility is co-evolution:
 
-Co-evolution.
+```text
+Human improves Agent
+Agent amplifies Human
+```
 
----
+Over time, both become more capable.
 
-We believe every person should be able to own their own AI agent.
+## We Believe Agents Should Be Owned
 
-Not rented.
+A real agent is not merely a rented interface to a foundation model.
 
-Not shared.
+A builder should be able to own the agent layer:
 
-Not someone else's.
+- identity
+- memory
+- tools
+- workflows
+- context
+- operating environment
+- evolution history
 
-Yours.
+Foundation models may be external. The agent body should belong to the builder.
 
-Not necessarily your own foundation model.
+## We Believe AI Builders Will Matter
 
-But your own agent:
+As foundation models become more widely available, durable advantage shifts from model access to agent ownership, architecture, evolution, and direction.
 
-* Your memory
-* Your context
-* Your workflows
-* Your tools
-* Your evolution history
+An AI Builder is not someone who merely uses AI.
 
----
+An AI Builder creates, owns, and evolves agents to solve real problems.
 
-We believe intelligence should compound.
+## We Believe In Human-Agent Systems
 
-The most powerful systems are not humans alone.
+The AI era introduces a new unit of capability:
 
-The most powerful systems are not AI alone.
+```text
+Human + Agent
+```
 
-The future belongs to human-agent systems evolving together.
+Humans provide judgment, purpose, values, taste, and responsibility.
 
----
+Agents provide memory, context, execution, scale, and continuity.
 
-We believe AI agents are more than tools.
+Neither is complete alone.
 
-A true agent carries:
+## We Believe AI Native Is A Direction
 
-* Memory
-* Context
-* Experience
-* Workflows
+AI Native is not a usage habit or prompt skill.
 
-A true agent grows with its owner.
+It is the state where a human and their own agent become a deeply integrated, evolving system.
 
-A true agent evolves.
-
----
-
-We believe AI Builders will shape the future.
-
-As foundation models become commodities, the enduring advantage shifts from model access to agent ownership, architecture, evolution, and direction.
-
-The future belongs to people who can build agents, grow agents, and direct them toward meaningful problems.
-
----
-
-We believe the AI era introduces a new fundamental unit:
-
-> Human + Agent
-
-Not human versus AI.
-
-Not human replaced by AI.
-
-A human-agent system operating across physical and cognitive worlds.
-
----
-
-We believe AI Native is the next stage.
-
-Not because humans become less important.
-
-But because humans become more capable through co-evolution with their agents.
-
-The human remains the source of judgment.
+The human remains responsible for judgment.
 
 The agent becomes an extension of capability.
 
 Together they become something neither could be alone.
 
----
+## Our Choice
 
 We do not know what intelligence will ultimately become.
 
 We do not know what civilization will ultimately become.
 
-But if co-evolution is possible,
-
-we choose to build toward it.
-
----
+But if co-evolution is possible, we choose to build toward it.
 
 Build your agent.
 
