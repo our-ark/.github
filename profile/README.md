@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/our-ark/.github/main/profile/ai_native_banner.png"
-    width="600"
-    alt="Our-Ark"
-  />
-</p>
 
 <h1 align="center">Our-Ark</h1>
 
