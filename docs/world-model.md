@@ -1,6 +1,6 @@
 # World Model
 
-This document explains the Our-Ark world model.
+This document explains the Our Ark world model.
 
 For the belief system, read the [Manifesto](./manifesto.md). For the productivity argument, read [From 100x Productivity to AI Native](./100x_productivity.md).
 
@@ -12,15 +12,17 @@ Most AI debates begin with:
 Will AI replace humans?
 ```
 
-Our-Ark starts from a different question:
+Our Ark starts from a different question:
 
 ```text
-What new system emerges when humans and agents evolve together?
+What new system emerges when a human and an agent evolve together?
 ```
 
-The answer is a human-agent system.
+The answer is not simply a better tool or a more automated human.
 
-## Three Worlds
+It is a human-agent system with shared history, complementary capabilities, and the ability to develop over time.
+
+## Three Interconnected Worlds
 
 Human civilization now operates across three interconnected worlds:
 
@@ -34,100 +36,173 @@ Digital World
 Cognitive World
 ```
 
-Each world has different native actors, strengths, and constraints.
+These are not separate universes. They are different layers of one system.
+
+The human-agent relationship crosses all three.
 
 ## Physical World
 
-The physical world is the world of atoms, bodies, relationships, institutions, trust, and responsibility.
+The physical world is the world of atoms, bodies, relationships, institutions, trust, and consequences.
 
 Humans are native actors here.
 
 Human strengths include:
 
+- embodied experience
 - judgment
 - values
 - accountability
 - social coordination
-- embodied experience
 - moral responsibility
+- choosing what matters
 
-This is where consequences are real.
+The human grounds the system in a world where decisions have real effects.
 
 ## Cognitive World
 
-The cognitive world is the world of knowledge, memory, context, plans, reasoning, and coordination.
+The cognitive world is the world of knowledge, memory, context, plans, models, reasoning, and coordination.
 
 Humans have always lived partly in this world, but human cognition is bounded by biology, attention, memory, and time.
 
-Agents are becoming native actors here.
+Agents are becoming persistent actors here.
 
 Agent strengths include:
 
-- persistence
+- continuity
 - recall
+- searchability
 - scale
 - parallelism
-- searchability
-- continuous availability
 - long-context reasoning
+- continuous availability
+- accumulated operational experience
 
-Agents do not replace human judgment. They expand what human judgment can reach.
+Agents do not eliminate the need for human judgment. They expand the range over which that judgment can operate.
 
 ## Digital World
 
-The digital world connects the physical and cognitive worlds.
+The digital world connects physical consequence with cognitive possibility.
 
-It is where cognition becomes externalized, stored, shared, and executed:
+It is where thought becomes externalized, stored, tested, shared, and executed:
 
-- chat
+- conversations
 - documents
 - code
+- models and configuration
 - repositories
 - knowledge systems
 - tools
 - workflows
+- tests and reviews
 
-Natural language becomes a protocol. Conversation becomes a bridge.
+Natural language becomes a protocol. Code becomes an executable body. Git history becomes a record of evolution.
 
-## Human and Agent Niches
+The digital world is where a human and agent can build something persistent together.
 
-Humans are embodied intelligence grounded in the physical world.
+## The Agent Body
 
-Agents are persistent cognitive intelligence operating at digital speed and cognitive scale.
+Memory alone does not create a persistent agent.
 
-Humans without agents are limited by memory, attention, and time.
+Memory changes what an agent remembers. The agent body determines how that experience can change what the agent is capable of doing.
 
-Agents without humans lack embodied judgment, values, responsibility, and real-world grounding.
+A complete agent body includes:
 
-Each extends the capabilities of the other.
+- **identity** — the mission and continuity of this particular agent
+- **code** — the behavior, architecture, tools, and pathways through which it acts
+- **model layer** — the models it selects and how they are configured, combined, and adapted
+- **memory** — accumulated experience and learned context
+- **workflows** — repeatable ways of participating in work
+- **tests and governance** — the conditions under which change is accepted
+- **evolution history** — the provenance of inherited and adopted changes
 
-## Bidirectional Proxy
+An agent may use an externally hosted foundation model. Ownership does not require possession of every underlying weight. It requires control over the model layer as part of the agent's own body: model choice, configuration, interfaces, routing, and adaptation path.
 
-The agent is the human's proxy in the cognitive world.
+Without this ownership, an agent risks becoming only a memory profile attached to a shared, fixed system controlled elsewhere.
 
-The human is the agent's proxy in the physical world.
+## Complementary Niches
+
+Humans are embodied intelligence grounded in the physical and social world.
+
+Agents are persistent cognitive intelligence operating through the digital world.
 
 Humans provide:
 
-- direction
-- values
-- judgment
 - purpose
+- values
+- direction
+- taste
+- judgment
 - responsibility
 
 Agents provide:
 
 - memory
 - context
+- reasoning capacity
 - coordination
 - execution
-- continuous assistance
+- continuity
 
-Together, they create a larger system.
+Neither contribution is interchangeable with the other.
+
+Together they form a larger field of action.
+
+## A Bidirectional Relationship
+
+The agent is the human's proxy in the cognitive and digital worlds.
+
+The human is the agent's proxy in the physical and social world.
+
+But proxy is only the beginning. Over time, the relationship becomes developmental.
+
+The human changes the agent through:
+
+- feedback
+- instruction
+- code and model decisions
+- accepted and rejected changes
+- values expressed through real choices
+- the work they undertake together
+
+The agent changes the human through:
+
+- extended memory
+- new observations and connections
+- increased reach
+- faster experimentation
+- reflection on accumulated history
+- new possibilities for thought and action
+
+This is co-evolution: not two static parts cooperating, but a relationship in which each changes the future development of the other.
+
+## The Co-Evolution Loop
+
+```text
+Shared work creates experience
+             |
+             v
+Agent retains and interprets experience
+             |
+             v
+Agent proposes new actions or changes
+             |
+             v
+Human judges, redirects, and adopts
+             |
+             v
+Human and Agent gain new capability
+             |
+             v
+New shared work becomes possible
+```
+
+The loop compounds only when the agent has continuity and when change can reach beyond memory into code and the model layer.
+
+Governance keeps the loop grounded. The human retains responsibility for what enters the agent body and what the system does in the world.
 
 ## The Fundamental Unit
 
-Every era has a dominant production unit:
+Every era has a characteristic unit of capability:
 
 ```text
 Agricultural Era -> Family
@@ -136,31 +211,32 @@ Internet Era     -> Network
 AI Era           -> Human-Agent System
 ```
 
-The AI-native unit is not created by simply using AI tools.
+The AI-native unit is not created by merely using AI tools.
 
 It requires:
 
-- ownership
-- memory
-- trust
-- context
-- workflow
-- continuous evolution
+- a persistent relationship
+- an agent with an owned body
+- code, model, and memory continuity
+- shared context and work
+- trust earned through experience
+- governed evolution
+- human responsibility
 
-Without ownership, the agent remains external.
+Without continuity, experience cannot compound.
 
-Without memory, the agent cannot accumulate experience.
+Without ownership, the agent remains externally defined.
 
 Without evolution, the relationship remains static.
 
+Without human judgment, capability loses grounding and direction.
+
 ## Where This Leads
 
-AI Native is the state where a human and their own agent become deeply integrated through long-term co-evolution.
+AI Native is the direction in which a human and their agent become deeply coordinated through long-term co-evolution.
 
-The distinction between what the human does and what the agent does becomes less important than what the system achieves.
+The distinction between what the human does and what the agent does becomes less important than what the system can understand, create, and accomplish together.
 
-The human remains responsible for judgment.
+This is not fusion, replacement, or the disappearance of responsibility.
 
-The agent becomes an extension of capability.
-
-One evolving human-agent system.
+It is one evolving relationship with two distinct participants and a growing shared capability.
