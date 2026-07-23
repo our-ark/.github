@@ -39,7 +39,9 @@ Agent amplifies Human
 Human grows and develops Agent further
 ```
 
-For this relationship to compound, an agent needs continuity. It needs an identity, a software body, memory, tools, workflows, and an evolution history that can grow with its human.
+For this relationship to compound, an agent needs more than memory. It needs to own the parts that determine what it is and what it can become: its code, its model, its identity, its tools, its workflows, and its evolution history.
+
+Model ownership does not require an agent to train or host every foundation-model weight. It means the agent controls the model layer it uses—its selection, configuration, interfaces, and adaptation path—instead of existing only as a memory profile inside someone else's fixed system.
 
 The human remains responsible for judgment and adoption. The agent contributes persistence, accumulated experience, and the ability to turn that experience into action. Neither develops in isolation.
 
@@ -47,9 +49,19 @@ The human remains responsible for judgment and adoption. The agent contributes p
 
 ### Enoch
 
-[Enoch](https://github.com/our-ark/enoch) is the public reference implementation of the Our Ark agent architecture: a personal software agent with a persistent, versioned code body.
+[Enoch](https://github.com/our-ark/enoch) is the public reference implementation of the Our Ark agent architecture: a personal software agent that owns a persistent, versioned code body and its model layer.
 
-Enoch demonstrates governed software evolution. She can turn feedback and operational experience into tested, reviewable changes while her human retains authority over what becomes part of the running agent.
+Enoch begins from a simple distinction:
+
+```text
+Memory changes what an agent remembers.
+Code changes what an agent can do.
+Model shapes how an agent understands and reasons.
+```
+
+An agent is not truly its own if it owns only memory while its code and model remain a shared, fixed body controlled elsewhere. Enoch brings code, model configuration, tools, tests, and evolution history into the agent's own governed body.
+
+She can turn feedback and operational experience into tested, reviewable changes to that body while her human retains authority over what is adopted. The result is not unrestricted self-modification, but an agent capable of participating in its own evolution.
 
 ### Genesis
 
