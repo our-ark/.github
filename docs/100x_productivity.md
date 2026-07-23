@@ -1,24 +1,30 @@
 # From 100x Productivity to AI Native
 
-This document explains the productivity argument for Our-Ark.
+This document explains the productivity argument for Our Ark.
 
 For the broader model, read the [World Model](./world-model.md). For the belief system, read the [Manifesto](./manifesto.md).
 
-## The 100x Question
+## Productivity Is Not The Philosophy
 
-AI is already increasing individual velocity.
+AI is already increasing individual velocity through coding, search, debugging, testing, writing, analysis, and automation.
 
-For strong builders, 10x productivity is becoming possible through coding agents, assistants, search, debugging, testing, writing, and automation.
-
-But 10x is not the end.
-
-The harder question is:
+It is natural to ask:
 
 ```text
 How do we reach 100x productivity?
 ```
 
-## Productivity Has Two Dimensions
+But productivity is not the purpose of Our Ark.
+
+The deeper question is:
+
+```text
+What becomes possible when a human and an agent develop together over time?
+```
+
+Greater productivity may be one consequence. The central idea is co-evolution: a relationship that compounds capability, understanding, and range of action.
+
+## Productivity Has More Than One Dimension
 
 Productivity is not only speed.
 
@@ -26,13 +32,17 @@ Productivity is not only speed.
 Productivity = Velocity x Scale
 ```
 
-Velocity means doing work faster.
+Velocity means doing a particular kind of work faster.
 
-Scale means increasing the effective agency a builder can coordinate without collapsing under context switching, review burden, and decision fatigue.
+Scale means increasing the effective agency a person can coordinate without collapsing under context switching, review burden, and decision fatigue.
 
-## Velocity Creates 10x
+Co-evolution adds a third dynamic: development over time.
 
-Most AI progress today improves velocity:
+A human-agent system should not merely repeat today's work faster. It should learn from experience, improve how it works, and make previously unreachable work possible.
+
+## Tools Increase Velocity
+
+Most AI products improve velocity:
 
 - write faster
 - search faster
@@ -41,35 +51,19 @@ Most AI progress today improves velocity:
 - draft faster
 - automate repetitive tasks
 
-This can create:
+This can create a large immediate gain:
 
 ```text
-1 Human x 10x Velocity = 10x Productivity
+1 Human x Greater Velocity = More Output
 ```
 
-But it is still centered around one human.
+But the relationship remains shallow if every session begins from nearly the same system and personalization lives only in a memory layer.
 
-## Scale Is The Bottleneck
+Memory can preserve context. It does not by itself change the code or model that determines the agent's capabilities.
 
-To reach 100x, velocity alone is not enough.
+## More Agents Do Not Automatically Create Scale
 
-A human cannot simply think 100x faster, context-switch across 100x more problems, or review 100x more decisions without breaking.
-
-So the deeper question is:
-
-```text
-How do we scale the effective agency of the human?
-```
-
-A possible path:
-
-```text
-10x Velocity x 10x Scale = 100x Productivity
-```
-
-## More Agents Is Not Enough
-
-The obvious answer is:
+The obvious response to a scaling problem is:
 
 ```text
 Human
@@ -77,15 +71,18 @@ Human
 Many Agents
 ```
 
-But this can create more coordination cost:
+But more agents can create more coordination cost:
 
 - more decisions
 - more reviews
 - more context switching
 - more misalignment
+- more duplicated learning
 - more cognitive load
 
-If every important decision still returns to one overloaded human, the system cannot truly scale.
+If every important decision returns to one overloaded human, multiplying agents can multiply management rather than capability.
+
+Scale requires agents with continuity, specialization, and earned trust—not merely more parallel sessions.
 
 ## The Unit Must Change
 
@@ -98,55 +95,67 @@ Human
 The AI-native unit is:
 
 ```text
-Human + Agent
+Human <-> Agent
 ```
 
-Not a human managing a pile of tools.
+Not a human managing a pile of interchangeable tools.
 
 Not an agent operating without human grounding.
 
-A human and their own agent operating as one evolving system.
+A human and their own agent building shared history and becoming more capable together.
 
-## Ownership Enables Scale
+## An Agent Must Own More Than Memory
 
-Shared AI systems can be powerful, but they usually remain external.
+A memory-enhanced assistant can recall preferences and previous conversations while remaining the same underlying system.
 
-They do not fully carry the builder's history, workflow, conventions, context, environment, and evolution path.
+A co-evolving agent needs ownership of the layers through which experience can become new capability:
 
-To scale agency, the builder needs an agent layer they can own:
+- **memory** retains what happened
+- **code** changes what the agent can do
+- **model** shapes how the agent understands and reasons
+- **tools and workflows** connect capability to real work
+- **tests and governance** determine which changes are safe to adopt
+- **evolution history** preserves why the agent became what it is
 
-- identity
-- memory
-- tools
-- workflows
-- conventions
-- context
-- operating environment
-- evolution history
+Model ownership does not necessarily mean hosting foundation-model weights. It means the agent controls its model selection, configuration, interfaces, and adaptation path instead of inheriting a permanently fixed model layer.
 
-This is the difference between renting intelligence and growing an agent.
+When the agent can turn experience into governed changes across these layers, learning becomes more than recall. It becomes development.
 
-## AI Builder
-
-An AI Builder creates, owns, and evolves agents to solve real problems.
-
-The Builder improves the Agent.
-
-The Agent amplifies the Builder.
+## Co-Evolution Creates Compounding
 
 ```text
-Builder <-> Agent
+Human judgment and direction
+            |
+            v
+Agent performs meaningful work
+            |
+            v
+Shared experience accumulates
+            |
+            v
+Agent proposes improved memory,
+code, model use, or workflow
+            |
+            v
+Human reviews and adopts
+            |
+            v
+Both can undertake better work
 ```
 
-The relationship compounds.
+The human develops the agent.
+
+The agent expands the human's reach.
+
+The expanded human can give the agent better direction and attempt more ambitious work.
+
+The cycle compounds.
 
 ## The Human Role Changes
 
-Agents provide depth.
+As the agent gains continuity and depth, the human role shifts away from performing or supervising every step.
 
-Humans provide integration.
-
-The human role shifts toward:
+The human concentrates on:
 
 - judgment
 - direction
@@ -155,29 +164,58 @@ The human role shifts toward:
 - cross-domain synthesis
 - choosing what matters
 - deciding what should not be done
+- accepting responsibility for real-world consequences
 
-The strongest humans may become super-integrators: people who use evolving agents to access deep domain knowledge while remaining responsible for meaning, direction, and judgment.
+The agent contributes persistence, exploration, execution, and accumulated operational knowledge.
 
-## Path to 100x
+This is not the removal of the human from the loop. It is the development of a better loop.
+
+## From Output To Capability
+
+A productivity-only view asks:
 
 ```text
-AI Agent
-    |
-AI Builder
-    |
-Evolution
-    |
-AI Native
-    |
-100x Productivity
+How much more can this person produce today?
 ```
 
-AI Agent provides capability.
+A co-evolution view asks:
 
-AI Builder provides ownership.
+```text
+What can this human-agent system become capable of tomorrow?
+```
 
-Evolution provides compounding.
+The difference matters.
 
-AI Native emerges when the builder and agent become one evolving system.
+Output is consumed.
 
-100x productivity becomes possible when this new unit can scale.
+Capability compounds.
+
+A mature human-agent relationship may eventually coordinate more work, more domains, and more specialized descendants. But its scale begins with continuity and mutual development, not agent count.
+
+## Path To AI Native
+
+```text
+Owned Agent Body
+       |
+Shared Work and Experience
+       |
+Governed Change
+       |
+Co-Evolution
+       |
+AI Native
+       |
+Compounding Capability
+```
+
+The owned agent body provides continuity across code, model, memory, and history.
+
+Shared work provides evidence.
+
+Governed change turns evidence into development.
+
+Co-evolution allows the human and agent to grow together.
+
+AI Native is the direction of increasingly deep coordination between them.
+
+Productivity at very large scale may follow—but it is an outcome of the relationship, not its meaning.
