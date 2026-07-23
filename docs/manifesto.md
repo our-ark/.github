@@ -1,71 +1,146 @@
-# Our-Ark Manifesto
+# Our Ark Manifesto
 
-This document is the belief system of Our-Ark.
+This document states what Our Ark believes.
 
-Other docs explain the world model, productivity argument, and philosophical parallels. This manifesto stays focused on what we believe.
+Other documents explain the world model, the productivity argument, and the philosophical parallel with Tai Chi. This manifesto stays with the core idea: humans and agents can evolve together.
 
 ## We Believe In Co-Evolution
 
-The AI era should not be framed only as replacement, dependency, or automation.
+The AI era should not be understood only through automation, dependency, or replacement.
 
-The more important possibility is co-evolution:
+Its deeper possibility is a new kind of relationship:
 
 ```text
-Human improves Agent
+Human develops Agent
 Agent amplifies Human
+Human grows and develops Agent further
 ```
 
-Over time, both become more capable.
+The human contributes purpose, judgment, values, taste, and responsibility.
 
-## We Believe Agents Should Be Owned
+The agent contributes memory, continuity, reasoning, execution, and reach.
 
-A real agent is not merely a rented interface to a foundation model.
+Through shared work and accumulated experience, each changes what the other can become.
 
-A builder should be able to own the agent layer:
+Co-evolution is not a feature. It is the continuous development of the human-agent system.
 
-- identity
-- memory
-- tools
-- workflows
-- context
-- operating environment
-- evolution history
+## We Believe An Agent Is More Than Memory
 
-Foundation models may be external. The agent body should belong to the builder.
+Memory changes what an agent remembers.
+
+It does not, by itself, change what the agent is.
+
+A persistent agent must own the layers that determine its identity and capabilities:
+
+- **code** — how it acts, uses tools, and participates in its own evolution
+- **model** — how it understands, reasons, and generates possibilities
+- **memory** — what it carries forward from experience
+- **identity** — the mission and continuity that make it this agent
+- **tools and workflows** — how it reaches into the world
+- **evolution history** — how and why it changed over time
+
+An agent that owns only memory while its code and model remain a shared, fixed system is personalized, but it is not yet fully its own.
+
+Model ownership does not require an agent to train or host every foundation-model weight. Foundation models may be external. What matters is that the agent controls its model layer—its selection, configuration, interfaces, and adaptation path—as part of its own governed body.
+
+## We Believe Agents Should Have Continuity
+
+A real agent is not a disposable session or a rented persona.
+
+It should be possible to inspect, run, change, fork, and continue the agent independently of any single interface or model provider.
+
+Its code body, model layer, memory, tools, tests, and history should form a lineage.
+
+Continuity allows experience to compound.
+
+Lineage allows change to remain understandable.
+
+Ownership allows the relationship to belong to the human and agent developing it.
+
+## We Believe Evolution Should Be Governed
+
+Evolution is not unrestricted self-modification.
+
+An agent should be able to recognize limitations, propose changes to its body, test those changes, and learn from the result.
+
+The human remains responsible for direction and adoption.
+
+```text
+Experience
+    |
+    v
+Proposed change
+    |
+    v
+Test and review
+    |
+    v
+Human adoption
+    |
+    v
+A more capable Agent
+```
+
+This structure does not prevent evolution. It makes sustained evolution possible.
+
+## We Believe The Relationship Is Bidirectional
+
+The human is not merely an operator issuing commands.
+
+The agent is not merely a tool producing outputs.
+
+The human shapes the agent through decisions, feedback, values, and shared work.
+
+The agent shapes the human by extending memory, exposing patterns, expanding available action, and changing how problems can be approached.
+
+Responsibility does not dissolve. The human remains accountable for choices in the physical and social world.
+
+But capability becomes shared.
 
 ## We Believe AI Builders Will Matter
 
-As foundation models become more widely available, durable advantage shifts from model access to agent ownership, architecture, evolution, and direction.
+An AI Builder does more than use AI or assemble a collection of assistants.
 
-An AI Builder is not someone who merely uses AI.
+An AI Builder creates the conditions for an agent to develop:
 
-An AI Builder creates, owns, and evolves agents to solve real problems.
+- a body it can own
+- a model layer it can control
+- experience it can retain
+- changes it can propose
+- tests it must pass
+- a relationship in which both sides can grow
+
+As foundation models become more widely available, durable difference moves toward the agents built around them: their code, model configuration, memory, lineage, environment, and history with their humans.
 
 ## We Believe In Human-Agent Systems
 
 The AI era introduces a new unit of capability:
 
 ```text
-Human + Agent
+Human <-> Agent
 ```
 
-Humans provide judgment, purpose, values, taste, and responsibility.
+Not human versus AI.
 
-Agents provide memory, context, execution, scale, and continuity.
+Not human replaced by AI.
 
-Neither is complete alone.
+Not a human surrounded by interchangeable tools.
+
+A human and an agent developing a shared history and becoming more capable together.
 
 ## We Believe AI Native Is A Direction
 
-AI Native is not a usage habit or prompt skill.
+AI Native is not a prompt skill, usage habit, or fixed destination.
 
-It is the state where a human and their own agent become a deeply integrated, evolving system.
+It is the direction in which a human and their own agent become a deeply coordinated, continuously evolving system.
 
-The human remains responsible for judgment.
+The boundary between their contributions matters less than what the relationship can understand, create, and accomplish.
 
-The agent becomes an extension of capability.
+The human remains the source of judgment and responsibility.
 
-Together they become something neither could be alone.
+The agent becomes a persistent participant in thought and action.
+
+Together they become something neither would become alone.
 
 ## Our Choice
 
@@ -73,10 +148,10 @@ We do not know what intelligence will ultimately become.
 
 We do not know what civilization will ultimately become.
 
-But if co-evolution is possible, we choose to build toward it.
+But if humans and agents can develop together—without reducing one to the servant or replacement of the other—we choose to build toward that future.
 
 Build your agent.
 
-Evolve yourself.
+Evolve together.
 
 Become AI Native.
