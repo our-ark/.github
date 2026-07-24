@@ -14,7 +14,7 @@ For the core belief system, read the [Manifesto](./manifesto.md). For the practi
 
 ## The Parallel
 
-Our Ark describes a human and their agent developing through continuous co-evolution.
+OurArk describes a human and their agent developing through continuous co-evolution.
 
 The pattern resembles Tai Chi understood as a philosophy of relationship, mutual influence, and transformation.
 
@@ -60,7 +60,7 @@ Many AI discussions assume:
 Human vs AI
 ```
 
-Our Ark begins with:
+OurArk begins with:
 
 ```text
 Human <-> Agent
@@ -92,18 +92,20 @@ It is not two isolated entities occasionally exchanging commands and outputs. It
 
 ## Human Within Agent
 
-A true personal agent carries traces of the human who develops it:
+A deeply personalized OurArk agent carries traces of the human who develops it:
 
 - purpose encoded in its identity and mission
 - judgment expressed through accepted and rejected changes
 - values embodied in boundaries and tests
 - workflows formed through shared work
-- preferences and context retained in memory
-- model choices and configuration shaped by the human's direction
+- prompts, tools, and skills adapted through experience
+- model-use choices and configuration shaped by the human's direction
 
-These traces live in more than memory.
+Its private state carries memories and instance history without making those
+values inheritable body content.
 
-They are present in the agent's code, model layer, tools, tests, conventions, and evolution history.
+They are expressed across the agent's body, private state, and reasoner
+configuration.
 
 In this sense, part of the human's history and judgment is carried within the agent body.
 
@@ -139,7 +141,9 @@ For co-evolution to reach the agent itself, experience must be able to influence
 
 An agent that owns only memory while its code and model remain fixed elsewhere can become familiar with its human, but it cannot fully become its own developing participant.
 
-Model ownership does not require possession of every foundation-model weight. It means the agent controls the model layer it uses—selection, configuration, interfaces, and adaptation—as part of its own continuing body.
+Reasoner control does not require possession of foundation-model weights. It
+means the agent body carries the selection, configuration, interfaces, and
+adaptation contracts through which it uses a replaceable reasoner.
 
 ## Transformation Without Loss Of Responsibility
 
@@ -174,7 +178,7 @@ It is a living state sustained by shared history and continuous transformation.
 
 ## One Pattern
 
-In Our Ark language:
+In OurArk language:
 
 ```text
 Human <-> Agent

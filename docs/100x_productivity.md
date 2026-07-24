@@ -1,6 +1,6 @@
 # From 100x Productivity to AI Native
 
-This document explains the productivity argument for Our Ark.
+This document explains the productivity argument for OurArk.
 
 For the broader model, read the [World Model](./world-model.md). For the belief system, read the [Manifesto](./manifesto.md).
 
@@ -14,7 +14,7 @@ It is natural to ask:
 How do we reach 100x productivity?
 ```
 
-But productivity is not the purpose of Our Ark.
+But productivity is not the purpose of OurArk.
 
 The deeper question is:
 
@@ -110,16 +110,17 @@ A memory-enhanced assistant can recall preferences and previous conversations wh
 
 A co-evolving agent needs ownership of the layers through which experience can become new capability:
 
-- **memory** retains what happened
-- **code** changes what the agent can do
-- **model** shapes how the agent understands and reasons
-- **tools and workflows** connect capability to real work
-- **tests and governance** determine which changes are safe to adopt
-- **evolution history** preserves why the agent became what it is
+- **private state** retains what happened without becoming inheritable body content
+- **body** changes what the agent can do through identity, code, prompts, tools, workflows, policies, tests, and evolution history
+- **reasoner** shapes how the agent understands and reasons while remaining replaceable
+- **human custody** determines which changes are safe to adopt and deploy
 
-Model ownership does not necessarily mean hosting foundation-model weights. It means the agent controls its model selection, configuration, interfaces, and adaptation path instead of inheriting a permanently fixed model layer.
+The foundation model may remain external. Ownership does not require owning
+model weights; it requires that the builder can possess and govern the agent's
+behavior-defining body and its reasoner contracts.
 
-When the agent can turn experience into governed changes across these layers, learning becomes more than recall. It becomes development.
+When experience can become governed changes to that body, learning becomes more
+than recall. It becomes development.
 
 ## Co-Evolution Creates Compounding
 
@@ -208,7 +209,8 @@ AI Native
 Compounding Capability
 ```
 
-The owned agent body provides continuity across code, model, memory, and history.
+The agent architecture provides continuity while separating its governed body,
+private memory, and replaceable reasoner.
 
 Shared work provides evidence.
 

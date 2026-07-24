@@ -1,6 +1,6 @@
 # World Model
 
-This document explains the Our Ark world model.
+This document explains the OurArk world model.
 
 For the belief system, read the [Manifesto](./manifesto.md). For the productivity argument, read [From 100x Productivity to AI Native](./100x_productivity.md).
 
@@ -12,7 +12,7 @@ Most AI debates begin with:
 Will AI replace humans?
 ```
 
-Our Ark starts from a different question:
+OurArk starts from a different question:
 
 ```text
 What new system emerges when a human and an agent evolve together?
@@ -99,25 +99,28 @@ Natural language becomes a protocol. Code becomes an executable body. Git histor
 
 The digital world is where a human and agent can build something persistent together.
 
-## The Agent Body
+## The Agent Architecture
 
 Memory alone does not create a persistent agent.
 
-Memory changes what an agent remembers. The agent body determines how that experience can change what the agent is capable of doing.
+Memory changes what an agent remembers. The software body determines how that
+experience can become a durable change in what the agent is capable of doing.
 
-A complete agent body includes:
+An OurArk agent separates four roles:
 
-- **identity** — the mission and continuity of this particular agent
-- **code** — the behavior, architecture, tools, and pathways through which it acts
-- **model layer** — the models it selects and how they are configured, combined, and adapted
-- **memory** — accumulated experience and learned context
-- **workflows** — repeatable ways of participating in work
-- **tests and governance** — the conditions under which change is accepted
-- **evolution history** — the provenance of inherited and adopted changes
+- **body** — identity, code, prompts, tools, skills, workflows, policies, tests,
+  and evolution history
+- **private state** — credentials, memories, logs, queues, and instance history
+- **reasoner** — a replaceable local or remote model-inference service
+- **human custodian** — the person responsible for mission, permissions,
+  secrets, promotion, deployment, and consequences
 
-An agent may use an externally hosted foundation model. Ownership does not require possession of every underlying weight. It requires control over the model layer as part of the agent's own body: model choice, configuration, interfaces, routing, and adaptation path.
+An agent may use an externally hosted foundation model. The body owns the
+contracts and configuration through which it selects and uses that reasoner;
+ownership does not require possession of foundation-model weights.
 
-Without this ownership, an agent risks becoming only a memory profile attached to a shared, fixed system controlled elsewhere.
+Without an independently governed body, an agent risks becoming only a memory
+profile attached to a shared, fixed system controlled elsewhere.
 
 ## Complementary Niches
 
@@ -196,7 +199,8 @@ Human and Agent gain new capability
 New shared work becomes possible
 ```
 
-The loop compounds only when the agent has continuity and when change can reach beyond memory into code and the model layer.
+The loop compounds only when the agent has continuity and when change can reach
+beyond private memory into its governed body and reasoner configuration.
 
 Governance keeps the loop grounded. The human retains responsibility for what enters the agent body and what the system does in the world.
 
@@ -216,14 +220,18 @@ The AI-native unit is not created by merely using AI tools.
 It requires:
 
 - a persistent relationship
-- an agent with an owned body
-- code, model, and memory continuity
+- an identity-bearing, versioned software body
+- separate private memory and instance state
+- a replaceable reasoning service
 - shared context and work
 - trust earned through experience
 - governed evolution
-- human responsibility
+- human custody and responsibility
 
 Without continuity, experience cannot compound.
+
+Without an owned body, the agent's future behavior remains controlled by an
+external platform.
 
 Without ownership, the agent remains externally defined.
 

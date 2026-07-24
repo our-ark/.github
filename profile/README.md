@@ -1,5 +1,5 @@
 
-<h1 align="center">Our Ark</h1>
+<h1 align="center">OurArk</h1>
 
 <p align="center">
   <strong>Build your agent. Evolve together. Become AI Native.</strong>
@@ -9,7 +9,13 @@
 
 ---
 
-Our Ark is a builder habitat for people exploring human-agent co-evolution.
+OurArk is an open-source research and builder habitat for people exploring
+human-agent co-evolution by creating, possessing, governing, and evolving their
+own AI agents.
+
+Our long-term mission is to make it possible for every person to have one or
+more deeply personalized agents shaped by their values, habits, feedback, and
+experience.
 
 We believe the AI era introduces a new unit of capability:
 
@@ -39,35 +45,65 @@ Agent amplifies Human
 Human grows and develops Agent further
 ```
 
-For this relationship to compound, an agent needs more than memory. It needs to own the parts that determine what it is and what it can become: its code, its model, its identity, its tools, its workflows, and its evolution history.
+For this relationship to compound, an agent needs more than memory. Its
+identity-bearing software body must be a durable, governed unit of continuity
+and change.
 
-Model ownership does not require an agent to train or host every foundation-model weight. It means the agent controls the model layer it uses—its selection, configuration, interfaces, and adaptation path—instead of existing only as a memory profile inside someone else's fixed system.
+The foundation model can remain external and replaceable. The body carries the
+agent-specific identity, code, prompts, tools, skills, policies, tests, and
+evolution history that determine how the agent uses a reasoner and acts in the
+world.
 
 The human remains responsible for judgment and adoption. The agent contributes persistence, accumulated experience, and the ability to turn that experience into action. Neither develops in isolation.
+
+## The Technical Thesis
+
+An OurArk agent separates four roles:
+
+- **Body**: identity, code, prompts, tools, skills, policies, tests, and the
+  governed evolution process.
+- **Private state**: credentials, memories, logs, queues, and instance history.
+- **Reasoner**: a replaceable local or remote model-inference service.
+- **Human custodian**: the person who controls mission, permissions, secrets,
+  promotion, and deployment.
+
+“Agent-owned” describes the body as the durable unit of continuity and change.
+It does not give an agent unrestricted administrative or legal control; the
+human custodian retains possession and authority.
 
 ## What We Are Building
 
 ### Enoch
 
-[Enoch](https://github.com/our-ark/enoch) is the public reference implementation of the Our Ark agent architecture: a personal software agent that owns a persistent, versioned code body and its model layer.
+[Enoch](https://github.com/our-ark/enoch) is the public reference implementation of the OurArk agent architecture: a personal software agent with a persistent, versioned body and a replaceable reasoner.
 
 Enoch begins from a simple distinction:
 
 ```text
-Memory changes what an agent remembers.
-Code changes what an agent can do.
-Model shapes how an agent understands and reasons.
+Private state changes what an agent remembers.
+The body changes what an agent can do.
+The reasoner shapes how an agent understands and reasons.
 ```
 
-An agent is not truly its own if it owns only memory while its code and model remain a shared, fixed body controlled elsewhere. Enoch brings code, model configuration, tools, tests, and evolution history into the agent's own governed body.
+An agent remains platform-defined if only its memory is personalized while its
+behavior-defining artifacts stay inside a shared, fixed system controlled
+elsewhere. Enoch brings identity, code, prompts, tools, tests, and evolution
+history into an independently versioned body.
 
 She can turn feedback and operational experience into tested, reviewable changes to that body while her human retains authority over what is adopted. The result is not unrestricted self-modification, but an agent capable of participating in its own evolution.
 
 ### Genesis
 
-Genesis is the creation engine for new agent lineages. It gives a new agent an inherited software body, an identity and mission, and an independent path to evolve with its builder.
+[Genesis](https://github.com/our-ark/genesis) is the creation engine for new agent lineages. It gives a new agent an inherited software body, an identity and mission, fresh private state, and an independent path to evolve with its builder.
 
 The goal is not one agent for everyone. It is many distinct human-agent relationships, each shaped by its own history, environment, work, and choices.
+
+## Open-Source Projects
+
+| Project | Role | Stable release |
+| --- | --- | --- |
+| [Genesis](https://github.com/our-ark/genesis) | Creates an independently versioned descendant body from a trusted compatible ancestor. | [v0.1.1](https://github.com/our-ark/genesis/releases/tag/v0.1.1) |
+| [Enoch](https://github.com/our-ark/enoch) | Reference personal-agent body with governed evolution, inherited contracts, and fresh private state for descendants. | [v0.2.0](https://github.com/our-ark/enoch/releases/tag/v0.2.0) |
 
 ## AI Native
 
@@ -86,6 +122,8 @@ They become better partners through time.
 
 ## Status
 
-Enoch is public and available to inspect, run, and fork. Our Ark is not yet open for general onboarding.
+OurArk is an early-stage public research and open-source project. Genesis and
+Enoch are available under Apache-2.0; their interfaces and documentation will
+continue to evolve.
 
-Request-to-board details will be posted later.
+The broader builder habitat is not open for general onboarding yet.

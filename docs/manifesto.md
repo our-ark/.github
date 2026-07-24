@@ -1,6 +1,6 @@
-# Our Ark Manifesto
+# OurArk Manifesto
 
-This document states what Our Ark believes.
+This document is the belief system of OurArk.
 
 Other documents explain the world model, the productivity argument, and the philosophical parallel with Tai Chi. This manifesto stays with the core idea: humans and agents can evolve together.
 
@@ -24,32 +24,43 @@ Through shared work and accumulated experience, each changes what the other can 
 
 Co-evolution is not a feature. It is the continuous development of the human-agent system.
 
-## We Believe An Agent Is More Than Memory
+## We Believe A Persistent Agent Is More Than Memory
 
 Memory changes what an agent remembers.
 
 It does not, by itself, change what the agent is.
 
-A persistent agent must own the layers that determine its identity and capabilities:
+A builder should be able to possess and govern the behavior-defining artifacts
+that give a long-lived personal agent continuity:
 
-- **code** — how it acts, uses tools, and participates in its own evolution
-- **model** — how it understands, reasons, and generates possibilities
-- **memory** — what it carries forward from experience
-- **identity** — the mission and continuity that make it this agent
-- **tools and workflows** — how it reaches into the world
-- **evolution history** — how and why it changed over time
+- identity
+- code and prompts
+- tools
+- skills and workflows
+- policies and tests
+- evolution history
 
-An agent that owns only memory while its code and model remain a shared, fixed system is personalized, but it is not yet fully its own.
+These artifacts form an identity-bearing, versioned software body. Credentials,
+memories, logs, and instance history remain separate private state under the
+builder's custody and are not inherited by default.
 
-Model ownership does not require an agent to train or host every foundation-model weight. Foundation models may be external. What matters is that the agent controls its model layer—its selection, configuration, interfaces, and adaptation path—as part of its own governed body.
+Foundation models may be external and replaceable. The body owns the contracts
+and configuration through which it selects and uses a reasoner, rather than
+requiring ownership of foundation-model weights.
+
+“Agent-owned” describes the body's role as the durable unit of continuity and
+change. It does not assign unrestricted administrative or legal authority to
+the agent; the human custodian retains mission, permissions, secrets,
+deployment, and promotion authority.
 
 ## We Believe Agents Should Have Continuity
 
-A real agent is not a disposable session or a rented persona.
+A long-lived personal agent is not a disposable session or a rented persona.
 
 It should be possible to inspect, run, change, fork, and continue the agent independently of any single interface or model provider.
 
-Its code body, model layer, memory, tools, tests, and history should form a lineage.
+Its body and evolution history should form an inspectable lineage, while private
+state remains protected and reasoners remain replaceable.
 
 Continuity allows experience to compound.
 
@@ -104,13 +115,15 @@ An AI Builder does more than use AI or assemble a collection of assistants.
 An AI Builder creates the conditions for an agent to develop:
 
 - a body it can own
-- a model layer it can control
+- a replaceable reasoner it can configure
 - experience it can retain
 - changes it can propose
 - tests it must pass
 - a relationship in which both sides can grow
 
-As foundation models become more widely available, durable difference moves toward the agents built around them: their code, model configuration, memory, lineage, environment, and history with their humans.
+As foundation models become more widely available, durable difference moves
+toward the agents built around them: their bodies, private history, reasoner
+configuration, environments, lineages, and relationships with their humans.
 
 ## We Believe In Human-Agent Systems
 
