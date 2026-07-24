@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">OurArk mark</title>
+  <desc id="description">A gold human sail and cyan agent sail rise together from one ark toward a guiding star.</desc>
+
+  <rect width="1024" height="1024" fill="#071824"/>
+
+  <g fill="none" stroke-width="28">
+    <path d="M512 100 A412 412 0 0 0 512 924" stroke="#F2B84B"/>
+    <path d="M512 100 A412 412 0 0 1 512 924" stroke="#26C6D4"/>
+  </g>
+
+  <path
+    d="M512 156 L526 204 L574 218 L526 232 L512 280 L498 232 L450 218 L498 204 Z"
+    fill="#F7F3E8"
+  />
+
+  <g fill="#F2B84B">
+    <circle cx="374" cy="330" r="31"/>
+    <path d="M395 353 L427 381" fill="none" stroke="#F2B84B" stroke-linecap="round" stroke-width="22"/>
+    <path d="M385 356 L431 388 L451 286 C489 426 486 550 444 672 L307 633 C376 550 416 456 420 380 Z"/>
+  </g>
+
+  <g fill="#26C6D4">
+    <circle cx="650" cy="330" r="31"/>
+    <path d="M629 353 L597 381" fill="none" stroke="#26C6D4" stroke-linecap="round" stroke-width="22"/>
+    <path d="M639 356 L593 388 L573 286 C535 426 538 550 580 672 L717 633 C648 550 608 456 604 380 Z"/>
+  </g>
+
+  <path
+    d="M238 628 C322 680 416 706 500 708 L500 790 C418 790 340 776 286 746 C262 716 246 676 238 628 Z"
+    fill="#F2B84B"
+  />
+  <path
+    d="M786 628 C702 680 608 706 524 708 L524 790 C606 790 684 776 738 746 C762 716 778 676 786 628 Z"
+    fill="#26C6D4"
+  />
+
+  <circle cx="512" cy="704" r="34" fill="#F7F3E8"/>
+
+  <path
+    d="M326 838 Q512 790 698 838"
+    fill="none"
+    stroke="#F7F3E8"
+    stroke-linecap="round"
+    stroke-width="18"
+  />
+</svg>

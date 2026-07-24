@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./ourark-mark.svg" width="168" alt="OurArk" />
+</p>
+
 <h1 align="center">OurArk</h1>
 
 <p align="center">
