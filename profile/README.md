@@ -73,6 +73,15 @@ An OurArk agent separates four roles:
 It does not give an agent unrestricted administrative or legal control; the
 human custodian retains possession and authority.
 
+## Research Paper
+
+The OurArk architecture and its Genesis and Enoch reference implementations
+are described in:
+
+> Roy Zhao and Zhenyu Zhao. [**Code Is the Body: Agent-Owned Software Bodies
+> for Recursive Evolution and Descent**](https://arxiv.org/abs/2607.28691).
+> arXiv:2607.28691, 2026. [DOI](https://doi.org/10.48550/arXiv.2607.28691)
+
 ## What We Are Building
 
 ### Enoch
