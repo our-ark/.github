@@ -73,14 +73,25 @@ An OurArk agent separates four roles:
 It does not give an agent unrestricted administrative or legal control; the
 human custodian retains possession and authority.
 
-## Research Paper
+## Research
 
 The OurArk architecture and its Genesis and Enoch reference implementations
 are described in:
 
 > Roy Zhao and Zhenyu Zhao. [**Code Is the Body: Agent-Owned Software Bodies
 > for Recursive Evolution and Descent**](https://arxiv.org/abs/2607.28691).
-> arXiv:2607.28691, 2026. [DOI](https://doi.org/10.48550/arXiv.2607.28691)
+> arXiv:2607.28691, 2026.
+
+[HTML](https://arxiv.org/html/2607.28691v1) ·
+[PDF](https://arxiv.org/pdf/2607.28691) ·
+[DOI](https://doi.org/10.48550/arXiv.2607.28691) ·
+[Research and reproducibility notes](../docs/papers/code-is-the-body.md)
+
+The paper formalizes the software body, private state, replaceable reasoner,
+and human-custodian boundary, together with governed evolution, recursive
+descent, and selective transfer. Its evaluated snapshot is immutable; current
+Genesis and Enoch releases continue beyond the implementation described in the
+paper.
 
 ## What We Are Building
 
@@ -111,10 +122,10 @@ The goal is not one agent for everyone. It is many distinct human-agent relation
 
 ## Open-Source Projects
 
-| Project | Role | Stable release |
+| Project | Role | Release |
 | --- | --- | --- |
-| [Genesis](https://github.com/our-ark/genesis) | Creates an independently versioned descendant body from a trusted compatible ancestor. | [v0.1.1](https://github.com/our-ark/genesis/releases/tag/v0.1.1) |
-| [Enoch](https://github.com/our-ark/enoch) | Reference personal-agent body with governed evolution, inherited contracts, and fresh private state for descendants. | [v0.2.0](https://github.com/our-ark/enoch/releases/tag/v0.2.0) |
+| [Genesis](https://github.com/our-ark/genesis) | Creates an independently versioned descendant body from a trusted compatible ancestor. | [Latest release](https://github.com/our-ark/genesis/releases/latest) |
+| [Enoch](https://github.com/our-ark/enoch) | Reference personal-agent body with governed evolution, inherited contracts, and fresh private state for descendants. | [Latest release](https://github.com/our-ark/enoch/releases/latest) |
 
 ## AI Native
 
@@ -126,6 +137,8 @@ They become better partners through time.
 
 ## Start Here
 
+- [Code Is the Body](../docs/papers/code-is-the-body.md): the technical paper,
+  evaluated software snapshot, terminology, citation, and reproduction steps.
 - [Manifesto](../docs/manifesto.md): our belief in human-agent co-evolution.
 - [World Model](../docs/world-model.md): the relationship across physical, digital, and cognitive worlds.
 - [From 100x Productivity to AI Native](../docs/100x_productivity.md): how a human-agent system expands both velocity and scale.
