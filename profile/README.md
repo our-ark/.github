@@ -48,26 +48,34 @@ Human grows and develops Agent further
 ```
 
 For this relationship to compound, an agent needs more than memory. Its
-identity-bearing software body must be a durable, governed unit of continuity
-and change.
+identity, private memory, and software body must form a durable, governed unit
+of continuity and change.
 
-The foundation model can remain external and replaceable. The body carries the
-agent-specific identity, code, prompts, tools, skills, policies, tests, and
-evolution history that determine how the agent uses a reasoner and acts in the
-world.
+The foundation model can remain external and replaceable. The software body
+carries the agent's code, prompts, tools, skills, policies, tests, and evolution
+history. An installed identity and private durable memory distinguish a
+particular agent instance from the reusable body it inhabits.
 
 The human remains responsible for judgment and adoption. The agent contributes persistence, accumulated experience, and the ability to turn that experience into action. Neither develops in isolation.
 
 ## The Technical Thesis
 
-An OurArk agent separates four roles:
+An OurArk persistent-agent deployment separates four roles:
 
-- **Body**: identity, code, prompts, tools, skills, policies, tests, and the
-  governed evolution process.
-- **Private state**: credentials, memories, logs, queues, and instance history.
-- **Reasoner**: a replaceable local or remote model-inference service.
+- **Persistent agent, `P=(I,M,B)`**: an installed architectural identity,
+  private durable memory and workflow state, and an authorized revision of a
+  versioned software body.
+- **Execution substrate, `E=(R,H,D)`**: the replaceable reasoner or model,
+  orchestration harness, and host or server that currently execute the agent.
+- **Interaction surfaces, `S`**: replaceable chat, API, and user-interface
+  bindings through which the agent interacts.
 - **Human custodian**: the person who controls mission, permissions, secrets,
-  promotion, and deployment.
+  promotion, deployment, and continuation authority.
+
+A particular installed instance, not the reusable body alone, is the persistent
+agent. Migration rebinds that continuity-bearing instance to a new execution
+substrate or interaction surface without treating the replacement as agent
+creation.
 
 “Agent-owned” describes the body as the durable unit of continuity and change.
 It does not give an agent unrestricted administrative or legal control; the
@@ -75,8 +83,22 @@ human custodian retains possession and authority.
 
 ## Research
 
-The OurArk architecture and its Genesis and Enoch reference implementations
-are described in:
+The overall persistent-agent architecture is introduced in:
+
+> Zhenyu Zhao and Roy Zhao. [**Runtime-Independent Persistent Agents:
+> Preserving Identity, Memory, and Code Across Models, Harnesses, and
+> Servers**](https://arxiv.org/abs/2609.00546). arXiv:2609.00546, 2026.
+
+[HTML](https://arxiv.org/html/2609.00546v1) ·
+[PDF](https://arxiv.org/pdf/2609.00546) ·
+[DOI](https://doi.org/10.48550/arXiv.2609.00546) ·
+[Reference implementation](https://github.com/our-ark/enoch)
+
+The paper defines the continuity-bearing substrate `P=(I,M,B)`, separates it
+from replaceable execution substrates and interaction surfaces, and specifies
+authorized migration semantics. Enoch is its public reference implementation.
+
+The software-body foundation was introduced in:
 
 > Roy Zhao and Zhenyu Zhao. [**Code Is the Body: Agent-Owned Software Bodies
 > for Recursive Evolution and Descent**](https://arxiv.org/abs/2607.28691).
@@ -97,20 +119,26 @@ paper.
 
 ### Enoch
 
-[Enoch](https://github.com/our-ark/enoch) is the public reference implementation of the OurArk agent architecture: a personal software agent with a persistent, versioned body and a replaceable reasoner.
+[Enoch](https://github.com/our-ark/enoch) is the public reference software body
+and implementation of the OurArk persistent-agent architecture. An installed
+Enoch instance combines that body with private identity, memory, workflow
+state, and continuation authority; the installed instance is the persistent
+agent.
 
 Enoch begins from a simple distinction:
 
 ```text
-Private state changes what an agent remembers.
+Identity distinguishes who the agent is.
+Private state changes what the agent remembers.
 The body changes what an agent can do.
 The reasoner shapes how an agent understands and reasons.
 ```
 
 An agent remains platform-defined if only its memory is personalized while its
 behavior-defining artifacts stay inside a shared, fixed system controlled
-elsewhere. Enoch brings identity, code, prompts, tools, tests, and evolution
-history into an independently versioned body.
+elsewhere. Enoch keeps architectural identity and durable memory private while
+placing code, prompts, tools, tests, and evolution history in an independently
+versioned body.
 
 She can turn feedback and operational experience into tested, reviewable changes to that body while her human retains authority over what is adopted. The result is not unrestricted self-modification, but an agent capable of participating in its own evolution.
 
@@ -125,7 +153,7 @@ The goal is not one agent for everyone. It is many distinct human-agent relation
 | Project | Role | Release |
 | --- | --- | --- |
 | [Genesis](https://github.com/our-ark/genesis) | Creates an independently versioned descendant body from a trusted compatible ancestor. | [Latest release](https://github.com/our-ark/genesis/releases/latest) |
-| [Enoch](https://github.com/our-ark/enoch) | Reference personal-agent body with governed evolution, inherited contracts, and fresh private state for descendants. | [Latest release](https://github.com/our-ark/enoch/releases/latest) |
+| [Enoch](https://github.com/our-ark/enoch) | Reference persistent-agent software body with governed evolution, inherited contracts, and fresh private state for installed instances and descendants. | [Latest release](https://github.com/our-ark/enoch/releases/latest) |
 
 ## AI Native
 
@@ -137,8 +165,9 @@ They become better partners through time.
 
 ## Start Here
 
-- [Code Is the Body](../docs/papers/code-is-the-body.md): the technical paper,
-  evaluated software snapshot, terminology, citation, and reproduction steps.
+- [Runtime-Independent Persistent Agents](https://arxiv.org/abs/2609.00546): the overall architecture, continuity model, and migration semantics.
+- [Code Is the Body](../docs/papers/code-is-the-body.md): the software-body
+  foundation, evaluated software snapshot, terminology, and reproduction steps.
 - [Manifesto](../docs/manifesto.md): our belief in human-agent co-evolution.
 - [World Model](../docs/world-model.md): the relationship across physical, digital, and cognitive worlds.
 - [From 100x Productivity to AI Native](../docs/100x_productivity.md): how a human-agent system expands both velocity and scale.
